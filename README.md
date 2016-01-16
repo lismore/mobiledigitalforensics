@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to ASP.NET 5 Preview
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
@@ -40,3 +41,7 @@ The ASP.NET Team
 * [Publish to the file system](http://go.microsoft.com/fwlink/?LinkId=518019)
 
 We would love to hear your [feedback](http://go.microsoft.com/fwlink/?LinkId=518015)
+=======
+# Mobile Digital Forensics
+Source for Mobile Digital Forensics site, written in Go with gohugo.io
+>>>>>>> ff199c7c1709aa20fc5c5c2e363760276dd505c7
